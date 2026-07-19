@@ -1,0 +1,1 @@
+-- Creates the database and raw customer orders table.
