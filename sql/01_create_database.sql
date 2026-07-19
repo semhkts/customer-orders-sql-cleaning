@@ -30,4 +30,3 @@ CREATE TABLE raw_customer_orders (
     unit_price VARCHAR(30),
     payment_status VARCHAR(50)
 );
-
