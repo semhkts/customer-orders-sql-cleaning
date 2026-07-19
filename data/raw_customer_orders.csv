@@ -1,1 +1,16 @@
-
+order_id,customer_name,email,city,order_date,product,quantity,unit_price,payment_status
+1001,John Smith,john.smith@email.com,Sydney,2026-01-05,Laptop Stand,2,49.95,Paid
+1002, Maria Garcia ,maria.garcia@email.com,sydney,05/01/2026,Wireless Mouse,1,$35.50,PAID
+1003,David Lee,david.lee@email.com,SYDNEY,January 6 2026,Keyboard,1,79.99,paid
+1004,Sarah Jones,,Melbourne,2026-01-07,USB-C Hub,2,65.00,Pending
+1005,Ahmed Khan,ahmed.khan@email.com, melbourne ,07/01/2026,Webcam,-1,120.00,PENDING
+1006,Emily Brown,emily.brown@email,Brisbane,2026/01/08,Monitor,1,299.99,Paid
+1007,Chris Wilson,chris.wilson@email.com,brisbane,2026-01-09,Desk Lamp,three,45.00,Refunded
+1008,,noah.taylor@email.com,Perth,10/01/2026,Office Chair,1,250.00,Paid
+1009,Olivia Martin,olivia.martin@email.com, perth ,2026-01-11,Laptop Stand,2,49.95,Complete
+1010,Liam White,liam.white@email.com,Adelaide,invalid date,Wireless Mouse,1,35.50,Paid
+1011,Sophia Clark,sophia.clark@email.com,Adelaide,2026-01-12,Keyboard,0,79.99,Paid
+1012,James Hall,james.hall@email.com,Canberra,12-01-2026,USB-C Hub,2,unknown,Pending
+1003,David Lee,david.lee@email.com,SYDNEY,January 6 2026,Keyboard,1,79.99,paid
+1014,Emma Young,emma.young@email.com,Canberra,2026-01-14,Webcam,1,120.00,
+1015,Daniel King,daniel.king@email.com,Hobart,2026-01-15,Monitor,1,299.99,Refund
