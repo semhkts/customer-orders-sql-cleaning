@@ -1,14 +1,6 @@
-/*
-Purpose:
-Clean and standardise the dataset.
-*/
-
-/*
-Tasks
-
-- Remove duplicates
-- Fix spelling mistakes
-- Standardise city names
-- Convert dates
-- Handle missing values
-*/
+UPDATE raw_customer_orders
+SET city = 'Sydney'
+WHERE city = 'sydney';
+UPDATE raw_customer_orders
+SET payment_status = 'Paid'
+WHERE payment_status = 'PAID';
