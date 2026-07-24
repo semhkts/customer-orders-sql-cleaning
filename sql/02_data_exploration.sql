@@ -79,3 +79,4 @@ FROM raw_customer_orders
 WHERE email IS NOT NULL
   AND TRIM(email) <> ''
   AND email NOT LIKE '%@%.%';
+
